@@ -2,4 +2,4 @@
 __pycache__/
 data/credentials.yml
 data/mycredentials.yml
-
+data/sample.txt
