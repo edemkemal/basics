@@ -1,0 +1,1 @@
+## Using one function for multiple purposes

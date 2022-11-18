@@ -1,0 +1,3 @@
+pizzas = ['chicken', 'cheese', 'pepperoni', 'capriciosa', 'funghi', 'sicilian']
+
+for pizza in pizzas:
